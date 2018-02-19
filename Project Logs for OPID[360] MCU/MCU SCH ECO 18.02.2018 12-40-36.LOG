@@ -1,0 +1,22 @@
+Replace Part C_AVDD Capacitor in C:\repo\MCU\MCU.SchDoc with Capacitor from Vortex-component-database.DbLib
+Replace Part C_AVDD_0 Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C_AVDD_1 Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C_DEC Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C_IOVDD Capacitor in C:\repo\MCU\MCU.SchDoc with Capacitor from Vortex-component-database.DbLib
+Replace Part C_IOVDD_0 Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C_IOVDD_3 Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C_IOVDD_5 Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C_VDD Capacitor in C:\repo\MCU\MCU.SchDoc with Capacitor from Vortex-component-database.DbLib
+Replace Part C_VDD1 Cap in C:\repo\MCU\MCU.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CL+ Capacitor in C:\repo\MCU\MCU.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Part CL- Capacitor in C:\repo\MCU\MCU.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Part D1 LED in C:\repo\MCU\MCU.SchDoc with LED from Celestial Library Database.DbLib
+Replace Part J1.0 LPHPower_connector in C:\repo\MCU\MCU.SchDoc with LPHPower_connector from Vortex-component-database.DbLib
+Replace Part J1.0 LPHPower_connector in C:\repo\MCU\MCU.SchDoc with LPHPower_connector from Vortex-component-database.DbLib
+Replace Part P1.0 Header 5X2 in C:\repo\MCU\MCU.SchDoc with Header 5X2 from Vortex-component-database.DbLib
+Replace Part R_LED Resistor in C:\repo\MCU\MCU.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Part R_reset Resistor in C:\repo\MCU\MCU.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Part S1 SPST-NO 4 PIN in C:\repo\MCU\MCU.SchDoc with SPST-NO 4 PIN from Celestial Library Database.DbLib
+Replace Part U1.0 EFM32GG942 in C:\repo\MCU\MCU.SchDoc with EFM32GG942 from Vortex-component-database.DbLib
+Replace Part U1.0 EFM32GG942 in C:\repo\MCU\MCU.SchDoc with EFM32GG942 from Vortex-component-database.DbLib
+Replace Part Y1.0 NDK Crystal NX2520SA in C:\repo\MCU\MCU.SchDoc with NDK Crystal NX2520SA from Celestial Library Database.DbLib

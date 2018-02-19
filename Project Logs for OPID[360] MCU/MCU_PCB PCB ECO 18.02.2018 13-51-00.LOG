@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=C_AVDD_0-1
+Removed Pin From Net: NetName=VCC Pin=C_AVDD_0-2
+Removed Pin From Net: NetName=GND Pin=C_AVDD_1-1
+Removed Pin From Net: NetName=VCC Pin=C_AVDD_1-2
+Removed Pin From Net: NetName=THR0 Pin=U1-15
+Removed Pin From Net: NetName=THR1 Pin=U1-16
+Removed Pin From Net: NetName=THR2 Pin=U1-17
+Removed Pin From Net: NetName=THR3 Pin=U1-18
+Removed Pin From Net: NetName=THR4 Pin=U1-21
+Removed Pin From Net: NetName=GPIO2 Pin=U1-28
+Removed Pin From Net: NetName=THR5 Pin=U1-29
+Removed Pin From Net: NetName=THR6 Pin=U1-30
+Removed Pin From Net: NetName=THR7 Pin=U1-31
+Removed Pin From Net: NetName=GPIO5 Pin=U1-32
+Removed Pin From Net: NetName=GPIO3 Pin=U1-33
+Removed Pin From Net: NetName=GPIO4 Pin=U1-36
+Removed Pin From Net: NetName=GPIO1 Pin=U1-37
+Removed Pin From Net: NetName=GPIO0 Pin=U1-38
+Change Component Comment : Designator=C_AVDD_0 Old Comment=0.10uF New Comment=10000pF
+Change Component Comment : Designator=C_AVDD_1 Old Comment=0.10uF New Comment=10000pF
+Change component parameters: Designator = "C_AVDD_0"; Footprint = "CAP 0805/2012"; UniqueID = "\EAWDKOFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V-v12.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/CC0805JRX7R9BB103/311-1857-2-ND/5195264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "5807"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0805JRX7R9BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0,0193"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1857-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C_AVDD_1"; Footprint = "CAP 0805/2012"; UniqueID = "\MJKFEPPQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V-v12.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/CC0805JRX7R9BB103/311-1857-2-ND/5195264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "5807"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0805JRX7R9BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0,0193"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1857-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C_AVDD_0-1
+Added Pin To Net: NetName=GND Pin=C_AVDD_0-2
+Added Pin To Net: NetName=VCC Pin=C_AVDD_1-1
+Added Pin To Net: NetName=GND Pin=C_AVDD_1-2
+Added Pin To Net: NetName=THR3 Pin=U1-15
+Added Pin To Net: NetName=THR4 Pin=U1-16
+Added Pin To Net: NetName=THR6 Pin=U1-17
+Added Pin To Net: NetName=THR7 Pin=U1-18
+Added Pin To Net: NetName=THR5 Pin=U1-21
+Added Pin To Net: NetName=THR0 Pin=U1-29
+Added Pin To Net: NetName=THR1 Pin=U1-30
+Added Pin To Net: NetName=THR2 Pin=U1-31
+Added Pin To Net: NetName=GPIO0 Pin=U1-41
+Added Pin To Net: NetName=GPIO1 Pin=U1-42
+Added Pin To Net: NetName=GPIO2 Pin=U1-43
+Added Pin To Net: NetName=GPIO3 Pin=U1-44
+Added Pin To Net: NetName=GPIO4 Pin=U1-47
+Added Pin To Net: NetName=GPIO5 Pin=U1-48

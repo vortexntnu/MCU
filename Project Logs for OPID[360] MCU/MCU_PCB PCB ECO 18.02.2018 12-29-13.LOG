@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=Tx2 Pin=U1.0-9
+Removed Pin From Net: NetName=Rx2 Pin=U1.0-10
+Removed Pin From Net: NetName=Rx1 Pin=U1.0-34
+Removed Pin From Net: NetName=Tx1 Pin=U1.0-35
+Added Component: Designator=CL+(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C0805C100J1GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/kemet/C0805C100J1GACTU/399-1109-2-ND/411108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "14386"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C100J1GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1109-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=CL-(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C0805C100J1GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/kemet/C0805C100J1GACTU/399-1109-2-ND/411108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "14386"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C100J1GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1109-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=Y1.0(NDK NX2520SA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "NX2520SA-16.000000MHZ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CL+-2
+Added Pin To Net: NetName=GND Pin=CL--1
+Added Pin To Net: NetName=Rx2 Pin=U1.0-9
+Added Pin To Net: NetName=Tx2 Pin=U1.0-10
+Added Pin To Net: NetName=Tx1 Pin=U1.0-34
+Added Pin To Net: NetName=Rx1 Pin=U1.0-35
+Added Pin To Net: NetName=GND Pin=Y1.0-2
+Added Pin To Net: NetName=GND Pin=Y1.0-4
+Added Pin To Net: NetName=CLK+ Pin=CL+-1
+Added Pin To Net: NetName=CLK+ Pin=U1.0-24
+Added Pin To Net: NetName=CLK+ Pin=Y1.0-3
+Added Net: Name=CLK+
+Added Pin To Net: NetName=CLK- Pin=CL--2
+Added Pin To Net: NetName=CLK- Pin=U1.0-25
+Added Pin To Net: NetName=CLK- Pin=Y1.0-1
+Added Net: Name=CLK-
+Added Member To Class: ClassName=MCU Member=Component CL+ 10pF
+Added Member To Class: ClassName=MCU Member=Component CL- 10pF
+Added Member To Class: ClassName=MCU Member=Component Y1.0 Frequency

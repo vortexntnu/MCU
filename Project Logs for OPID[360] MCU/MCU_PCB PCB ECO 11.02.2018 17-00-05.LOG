@@ -1,0 +1,16 @@
+Change Physical Footprint: Designator=C_AVDD Old Footprint=CAPC2013X14N New Footprint=CAPC2013X14N
+Change Physical Footprint: Designator=C_AVDD_0 Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=C_AVDD_1 Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=C_DEC Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=C_IOVDD Old Footprint=CAPC2013X14N New Footprint=CAPC2013X14N
+Change Physical Footprint: Designator=C_IOVDD_0 Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=C_IOVDD_3 Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=C_IOVDD_5 Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=C_VDD Old Footprint=CAPC2013X14N New Footprint=CAPC2013X14N
+Change Physical Footprint: Designator=C_VDD1 Old Footprint=6-0805_N New Footprint=6-0805_N
+Change Physical Footprint: Designator=D1 Old Footprint=LED 0805/2012 GREEN New Footprint=LED 0805/2012 GREEN
+Change Physical Footprint: Designator=J1.0 Old Footprint=CONN_HEADER_4PWR_24SGL_2.36MM New Footprint=CONN_HEADER_4PWR_24SGL_2.36MM
+Change Physical Footprint: Designator=P1.0 Old Footprint=HDRRA10W40P127_2X5_1265X750X540P New Footprint=HDRRA10W40P127_2X5_1265X750X540P
+Change Physical Footprint: Designator=R_LED Old Footprint=RES 0805/2012 New Footprint=RES 0805/2012
+Change Physical Footprint: Designator=R_reset Old Footprint=RES 0805/2012 New Footprint=RES 0805/2012
+Change Physical Footprint: Designator=S1 Old Footprint=TE FSM4JSMA New Footprint=TE FSM4JSMA

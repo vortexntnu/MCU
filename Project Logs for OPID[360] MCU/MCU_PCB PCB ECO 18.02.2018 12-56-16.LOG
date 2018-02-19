@@ -1,0 +1,41 @@
+Added Component: Designator=U1(TQFP64_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.silabs.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.silabs.com/documents/public/data-sheets/EFM32GG942.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EFM32GG942F1024G-E-QFP64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "336-4157-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA1 Pin=U1-1
+Added Pin To Net: NetName=SCL1 Pin=U1-2
+Added Pin To Net: NetName=Rx2 Pin=U1-9
+Added Pin To Net: NetName=Tx2 Pin=U1-10
+Added Pin To Net: NetName=SDA2 Pin=U1-13
+Added Pin To Net: NetName=SCL2 Pin=U1-14
+Added Pin To Net: NetName=THR3 Pin=U1-15
+Added Pin To Net: NetName=THR4 Pin=U1-16
+Added Pin To Net: NetName=THR6 Pin=U1-17
+Added Pin To Net: NetName=THR7 Pin=U1-18
+Added Pin To Net: NetName=PWM8 Pin=U1-19
+Added Pin To Net: NetName=RESETn Pin=U1-20
+Added Pin To Net: NetName=THR5 Pin=U1-21
+Added Pin To Net: NetName=CLK+ Pin=U1-24
+Added Pin To Net: NetName=CLK- Pin=U1-25
+Added Pin To Net: NetName=THR0 Pin=U1-29
+Added Pin To Net: NetName=THR1 Pin=U1-30
+Added Pin To Net: NetName=THR2 Pin=U1-31
+Added Pin To Net: NetName=Tx1 Pin=U1-34
+Added Pin To Net: NetName=Rx1 Pin=U1-35
+Added Pin To Net: NetName=NetC_DEC_2 Pin=U1-40
+Added Pin To Net: NetName=GPIO0 Pin=U1-41
+Added Pin To Net: NetName=GPIO1 Pin=U1-42
+Added Pin To Net: NetName=GPIO2 Pin=U1-43
+Added Pin To Net: NetName=GPIO3 Pin=U1-44
+Added Pin To Net: NetName=GPIO4 Pin=U1-47
+Added Pin To Net: NetName=GPIO5 Pin=U1-48
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Pin To Net: NetName=SWDIO Pin=U1-50
+Added Pin To Net: NetName=SWO Pin=U1-51
+Added Pin To Net: NetName=PWM9 Pin=U1-63
+Added Member To Class: ClassName=MCU Member=Component U1 EFM32GG942F1024G-E-QFP64

@@ -1,0 +1,42 @@
+Change Component Comment : Designator=U1.0 Old Comment=Comment New Comment=EFM32GG942F1024G-E-QFP64
+Change component parameters: Designator = "U1.0"; Footprint = "TQFP64_N"; UniqueID = "\HJCYUQTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.silabs.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.silabs.com/documents/public/data-sheets/EFM32GG942.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EFM32GG942F1024G-E-QFP64"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "336-4157-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA1 Pin=U1.0-1
+Added Pin To Net: NetName=SCL1 Pin=U1.0-2
+Added Pin To Net: NetName=VCC Pin=U1.0-7
+Added Pin To Net: NetName=GND Pin=U1.0-8
+Added Pin To Net: NetName=Tx2 Pin=U1.0-9
+Added Pin To Net: NetName=Rx2 Pin=U1.0-10
+Added Pin To Net: NetName=SDA2 Pin=U1.0-13
+Added Pin To Net: NetName=SCL2 Pin=U1.0-14
+Added Pin To Net: NetName=THR3 Pin=U1.0-15
+Added Pin To Net: NetName=THR4 Pin=U1.0-16
+Added Pin To Net: NetName=THR6 Pin=U1.0-17
+Added Pin To Net: NetName=THR7 Pin=U1.0-18
+Added Pin To Net: NetName=PWM8 Pin=U1.0-19
+Added Pin To Net: NetName=RESETn Pin=U1.0-20
+Added Pin To Net: NetName=THR5 Pin=U1.0-21
+Added Pin To Net: NetName=GND Pin=U1.0-22
+Added Pin To Net: NetName=VCC Pin=U1.0-23
+Added Pin To Net: NetName=VCC Pin=U1.0-26
+Added Pin To Net: NetName=VCC Pin=U1.0-27
+Added Pin To Net: NetName=THR0 Pin=U1.0-29
+Added Pin To Net: NetName=THR1 Pin=U1.0-30
+Added Pin To Net: NetName=THR2 Pin=U1.0-31
+Added Pin To Net: NetName=Rx1 Pin=U1.0-34
+Added Pin To Net: NetName=Tx1 Pin=U1.0-35
+Added Pin To Net: NetName=VCC Pin=U1.0-39
+Added Pin To Net: NetName=NetC_DEC_2 Pin=U1.0-40
+Added Pin To Net: NetName=SWCLK Pin=U1.0-49
+Added Pin To Net: NetName=SWDIO Pin=U1.0-50
+Added Pin To Net: NetName=SWO Pin=U1.0-51
+Added Pin To Net: NetName=VCC Pin=U1.0-55
+Added Pin To Net: NetName=GND Pin=U1.0-56
+Added Pin To Net: NetName=PWM9 Pin=U1.0-63
