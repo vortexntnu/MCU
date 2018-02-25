@@ -1,0 +1,45 @@
+Added Pin To Net: NetName=VCC Pin=P1-9
+Added Pin To Net: NetName=PE7 Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-18
+Added Pin To Net: NetName=PC6 Pin=P1-12
+Added Pin To Net: NetName=PC6 Pin=U1-37
+Added Net: Name=PC6
+Added Pin To Net: NetName=PD4 Pin=P1-10
+Added Pin To Net: NetName=PD4 Pin=U1-32
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=P1-11
+Added Pin To Net: NetName=PD5 Pin=U1-33
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD8 Pin=P1-2
+Added Pin To Net: NetName=PD8 Pin=U1-36
+Added Net: Name=PD8
+Added Pin To Net: NetName=PE5 Pin=P1-3
+Added Pin To Net: NetName=PE5 Pin=U1-42
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE8 Pin=P1-15
+Added Pin To Net: NetName=PE8 Pin=U1-57
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE9 Pin=P1-6
+Added Pin To Net: NetName=PE9 Pin=U1-58
+Added Net: Name=PE9
+Added Pin To Net: NetName=PE10 Pin=P1-7
+Added Pin To Net: NetName=PE10 Pin=U1-59
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE11 Pin=P1-16
+Added Pin To Net: NetName=PE11 Pin=U1-60
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE12 Pin=P1-8
+Added Pin To Net: NetName=PE12 Pin=U1-61
+Added Net: Name=PE12
+Added Pin To Net: NetName=PE13 Pin=P1-17
+Added Pin To Net: NetName=PE13 Pin=U1-62
+Added Net: Name=PE13
+Added Pin To Net: NetName=PF10 Pin=P1-14
+Added Pin To Net: NetName=PF10 Pin=U1-47
+Added Net: Name=PF10
+Added Pin To Net: NetName=USB_VBUS Pin=P1-5
+Added Pin To Net: NetName=USB_VBUS Pin=U1-52
+Added Net: Name=USB_VBUS
+Added Pin To Net: NetName=USB_VREGI Pin=P1-4
+Added Pin To Net: NetName=USB_VREGI Pin=U1-45
+Added Net: Name=USB_VREGI

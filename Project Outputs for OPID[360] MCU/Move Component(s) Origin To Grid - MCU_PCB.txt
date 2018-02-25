@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : C:\repo\MCU\MCU_PCB.PcbDoc
+Date         : 25.02.2018
+Time         : 14:14:39
+Time Elapsed : 00:00:00
