@@ -1,0 +1,122 @@
+Added Component: Designator=D1(LED 0805/2012 GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/S_110_LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/LTST-C171KGKT/160-1426-2-ND/386799"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0638"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED 0805/2012 GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/S_110_LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/LTST-C171KGKT/160-1426-2-ND/386799"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0638"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=P2.0(HDR2X12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED1(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF1300V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-6ENF1300V/P130CTR-ND/111111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2345"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0073"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P130CTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED2(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF1300V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-6ENF1300V/P130CTR-ND/111111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2345"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0073"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P130CTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=SDA1 Pin=P2.0-1
+Added Pin To Net: NetName=PWM8 Pin=P2.0-2
+Added Pin To Net: NetName=SCL1 Pin=P2.0-3
+Added Pin To Net: NetName=PWM9 Pin=P2.0-4
+Added Pin To Net: NetName=SDA2 Pin=P2.0-5
+Added Pin To Net: NetName=Rx1 Pin=P2.0-6
+Added Pin To Net: NetName=SCL2 Pin=P2.0-7
+Added Pin To Net: NetName=Tx1 Pin=P2.0-8
+Added Pin To Net: NetName=THR0 Pin=P2.0-9
+Added Pin To Net: NetName=Rx2 Pin=P2.0-10
+Added Pin To Net: NetName=THR1 Pin=P2.0-11
+Added Pin To Net: NetName=Tx2 Pin=P2.0-12
+Added Pin To Net: NetName=THR2 Pin=P2.0-13
+Added Pin To Net: NetName=GPIO0 Pin=P2.0-14
+Added Pin To Net: NetName=THR3 Pin=P2.0-15
+Added Pin To Net: NetName=GPIO1 Pin=P2.0-16
+Added Pin To Net: NetName=THR4 Pin=P2.0-17
+Added Pin To Net: NetName=GPIO2 Pin=P2.0-18
+Added Pin To Net: NetName=THR5 Pin=P2.0-19
+Added Pin To Net: NetName=GPIO3 Pin=P2.0-20
+Added Pin To Net: NetName=THR6 Pin=P2.0-21
+Added Pin To Net: NetName=GPIO4 Pin=P2.0-22
+Added Pin To Net: NetName=THR7 Pin=P2.0-23
+Added Pin To Net: NetName=GPIO5 Pin=P2.0-24
+Added Pin To Net: NetName=NetD1_1 Pin=R_LED1-1
+Added Pin To Net: NetName=PE12 Pin=R_LED1-2
+Added Pin To Net: NetName=NetD2_1 Pin=R_LED2-1
+Added Pin To Net: NetName=PE13 Pin=R_LED2-2
+Added Member To Class: ClassName=MCU Member=Component D1 Green
+Added Member To Class: ClassName=MCU Member=Component D2 Green
+Added Member To Class: ClassName=MCU Member=Component P2.0 Header 12X2
+Added Member To Class: ClassName=MCU Member=Component R_LED1 130
+Added Member To Class: ClassName=MCU Member=Component R_LED2 130

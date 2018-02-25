@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D0
+Change Component Designator: OldDesignator=R_LED NewDesignator=R_LED0
+Added Component: Designator=D1(LED 0805/2012 GREEN)
+Added Component: Designator=D2(LED 0805/2012 GREEN)
+Added Component: Designator=P2.0(HDR2X12)
+Added Component: Designator=R_LED1(RES 0805/2012)
+Added Component: Designator=R_LED2(RES 0805/2012)
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD0_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1

@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=MCU Member=P1.0
+Change Component Designator: OldDesignator=C_AVDD NewDesignator=C6
+Change Component Designator: OldDesignator=C_AVDD_0 NewDesignator=C9
+Change Component Designator: OldDesignator=C_AVDD_1 NewDesignator=C12
+Change Component Designator: OldDesignator=C_DEC NewDesignator=C3
+Change Component Designator: OldDesignator=C_IOVDD NewDesignator=C5
+Change Component Designator: OldDesignator=C_IOVDD_3 NewDesignator=C10
+Change Component Designator: OldDesignator=C_IOVDD_5 NewDesignator=C11
+Change Component Designator: OldDesignator=C_IVDD_0 NewDesignator=C8
+Change Component Designator: OldDesignator=C_VDD1 NewDesignator=C7
+Change Component Designator: OldDesignator=C_VDD NewDesignator=C4
+Change Component Designator: OldDesignator=CL+ NewDesignator=C1
+Change Component Designator: OldDesignator=CL- NewDesignator=C2
+Change Component Designator: OldDesignator=D0 NewDesignator=D3
+Change Component Designator: OldDesignator=J1.0 NewDesignator=J1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P1.0 NewDesignator=P1
+Change Component Designator: OldDesignator=P2.0 NewDesignator=P3
+Change Component Designator: OldDesignator=R_LED0 NewDesignator=R4
+Change Component Designator: OldDesignator=R_LED1 NewDesignator=R2
+Change Component Designator: OldDesignator=R_LED2 NewDesignator=R3
+Change Component Designator: OldDesignator=R_reset NewDesignator=R1
+Change Component Designator: OldDesignator=Y1.0 NewDesignator=Y1
+Change Net Name : Old Net Name=NetC_DEC_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetD0_1 New Net Name=NetD3_1
+Added Member To Class: ClassName=MCU Member=Component D1 Green
+Added Member To Class: ClassName=MCU Member=Component P2 Header 9X2A
